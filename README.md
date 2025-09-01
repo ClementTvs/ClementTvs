@@ -1,15 +1,14 @@
 ### Hi ! I'm Clément 👋
 👨‍💻 Student at 42 | 🚀 Future Game Developer</br>
-Currently diving deep into web development, with a strong focus on user experience and interactivity.
+Currently diving deep into game development.
 
 💡 What I'm doing right now</br>
-Building interactive websites using Next.js, TypeScript, Tailwind CSS, Framer Motion and Figma
+Building small games, participating in gamejams, learning Unity and C#.
 
 🎮 Where I'm heading</br>
-Planning to enter the game development world, starting with small 2D projects</br>
-Looking forward to experimenting with Unity or Godot
+Planning to enter the profesionnal game development world</br>
 
-📌 Current goal: launch an interactive portfolio and start building my first playable game prototype.
+📌 Current goal: Keep learning Unity and building small games to acquire more experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-travers-09607036b) 
