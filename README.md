@@ -8,7 +8,7 @@ Building small games, exploring my options.
 Planning to enter the profesionnal game development world</br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-travers-09607036b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-travers-09607036b) </br>
 [Itch.io](https://sotsu.itch.io/)
 
 # 💻 Tech Stack:
